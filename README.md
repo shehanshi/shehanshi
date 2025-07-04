@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Ladeesha Shehanshi!
+
+🎓 ICT Undergraduate | 📊 Aspiring Business & Data Analyst  
+💼 Intern at Sri Lanka Telecom PLC  
+
+## 🔧 Tools & Skills
+- Power BI
+- Tableau
+- SQL
+- Excel
+- GitHub
+- Business Requirement Documents
+
+## 📈 Projects
+- 2024 Presidential Election Power BI Dashboard
+- Social Media Addiction Data Analysis
+
+## 📬 Connect with Me
+- LinkedIn: [www.linkedin.com/in/ladeesha-shehanshi-aa1291309]
+
+- Email: [shehanshikp@gmail.com]
 
 <!--
 **shehanshi/shehanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
