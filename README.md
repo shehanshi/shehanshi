@@ -14,6 +14,7 @@
 ## 📈 Projects
 - 2024 Presidential Election Power BI Dashboard
 - Social Media Addiction Data Analysis
+- 2024 Presidential Election Result Analysis using SQL
 
 ## 📬 Connect with Me
 - LinkedIn: [www.linkedin.com/in/ladeesha-shehanshi-aa1291309]
